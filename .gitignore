@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Downloaded dataset (automatically fetched by the script)
+Iris.csv
+
+# Notebook / test artifacts
+.ipynb_checkpoints/
+.pytest_cache/
